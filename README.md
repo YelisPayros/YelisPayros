@@ -1,3 +1,5 @@
+<img src="github_banner.jpg" alt="GitHub Banner" width="100%" />
+
 # 💫 About Me:
 Currently working on projects.
 
